@@ -1,6 +1,10 @@
 # Discord UI-CLONE
 > Projeto da a série de vídeos no YouTube do canal Rocketseat ensinando a fazer UI-Clones com React do ZERO!
 
+
+<p align="center">
+  <img alt="Logo do projeto" src="./Desktop/uiclone.png" />
+</p>
 Quer ver como ta ficando? Acesse a DEMO: https://discord-ui-clone.vercel.app/
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
