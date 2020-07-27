@@ -4,8 +4,8 @@
 Quer ver como ta ficando? Acesse a DEMO: https://discord-ui-clone.vercel.app/
 
 
-[![RandalTK][npm-image]][npm-url]
-[Randaltk]
+[![RandalTK][npm-image]][npm-url[Randaltk]
+]
 
 ![](../uiclone.png)
 
