@@ -5,7 +5,7 @@ Quer ver como ta ficando? Acesse a DEMO: https://discord-ui-clone.vercel.app/
 
 
 [![RandalTK][npm-image]][npm-url]
-
+[Randaltk]
 
 ![](../uiclone.png)
 
@@ -23,4 +23,4 @@ Quer ver como ta ficando? Acesse a DEMO: https://discord-ui-clone.vercel.app/
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/seunome/seuprojeto/wiki
-
+[Randaltk]:https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK
