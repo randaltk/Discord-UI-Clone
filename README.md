@@ -4,9 +4,7 @@
 Quer ver como ta ficando? Acesse a DEMO: https://discord-ui-clone.vercel.app/
 
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![RandalTK][npm-image]][npm-url]
 
 
 ![](../uiclone.png)
