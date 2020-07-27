@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img alt="Logo do projeto" src="./Desktop/uiclone.png" />
+  <img alt="Logo do projeto" src="C:\Users\Randal Krebs\Desktop\Doc\uiclone.png"
 </p>
 Quer ver como ta ficando? Acesse a DEMO: https://discord-ui-clone.vercel.app/
 
