@@ -1,5 +1,5 @@
 # Discord UI-CLONE
-> Projeto da  série de vídeos no YouTube do canal Rocketseat ensinando a fazer UI-Clones com React, styled-components.
+> Projeto da  série de vídeos no YouTube do canal Rocketseat ensinando a fazer UI-Clones com React, TS e styled-components, para propósito de aprendizado.
 
 
 
