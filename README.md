@@ -7,7 +7,16 @@ Quer ver como ta ficando? Acesse a DEMO: discord-ui-clone.vercel.app
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
 
-![](../uiclone.png)
+## Techs
+
+- [x] React.js
+- [x] Styled Components
+- [x] TypeScript
+
+## Usage
+
+1. Run `npm install` or `yarn install`.<br />
+2. Run `yarn start` and access `http://localhost:3000`.<br />
 
 ## Contributing
 
