@@ -19,7 +19,7 @@ Quer ver como ta ficando? Acesse a DEMO: https://discord-ui-clone-mu.vercel.app/
 # Clone este repositório
 $ git clone git@github.com:randaltk/Discord-UI-Clone
 
-# Depois disso, entre na pasta web e execute o comando:
+# Depois disso, entre na pasta e execute o comando:
 $ yarn start
 ```
 ## Contributing
